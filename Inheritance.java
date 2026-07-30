@@ -8,9 +8,7 @@ class Base{
     System.out.println("I am in base and setting x now");
     this.x = x;
   }
-  public void printme(){
-    System.out.println("I am a constructor");
-  }
+  
 }
 
 class Derived extends Base {
