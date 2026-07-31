@@ -14,7 +14,7 @@ Hi there! 👋 I'm Anmol Saxena
 - Artificial Intelligence (AI) 🤖
 - Git & GitHub
 - Problem Solving
-- Basic Object-Oriented Programming (OOP)
+- Object-Oriented Programming (OOP)
 
 🎯 Goals
 
