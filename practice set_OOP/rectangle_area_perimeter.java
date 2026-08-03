@@ -1,14 +1,14 @@
 class Rectangle{
     int length;
     int breadth;
-    void setRectangle(int l,int b){
+   public void setRectangle(int l,int b){
         this.length = l;
         this.breadth = b;
     }
-    int area(){
+    public int area(){
         return length * breadth;
         }
-    int perimeter(){
+    public int perimeter(){
         return 2 * (length + breadth);
     }
 }
