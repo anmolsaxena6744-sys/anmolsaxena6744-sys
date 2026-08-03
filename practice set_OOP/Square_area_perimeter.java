@@ -4,7 +4,7 @@ class Square{
         this.side = n;
     }
     public int area(){
-        return side * side;
+        return side * side;  
     }
     public int perimeter(){
         return 4 * side;
