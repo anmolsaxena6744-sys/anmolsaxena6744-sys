@@ -24,7 +24,7 @@ class Main{
         h.jump();
         h.bite();
        // h.eat(); --> error because reference type is Monkey
-        
+        //h.sleep(); --> error because reference type is Monkey        
     }
 }
    
